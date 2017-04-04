@@ -1,2 +1,2 @@
 # namesta-world
-just another repository
+hello world, this is just a testing purpose
